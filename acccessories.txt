@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<title>accessories</title>
+<style>
+a:link{
+       color:lightblue;
+       text-decoration:none;
+       border:5px solid black;
+}
+a:visited{
+          color:lightblue;
+          border:5px solid black;
+}
+a:active{
+         color:lightblue;
+         text-decoration:none;
+         border:5px solid white;
+}
+a:hover{background-color:red;}
+table,th,td{
+  border: 1px white;
+}
+</head>
+<body>
+    <table style= "width:100%">
+  <tr>
+     <th><img src="phi.jpg" height="100px" width="100px"></th>
+     <th><a href="focp.html">Home</a></th>
+     <th><a href="dummy.html">vehicles</a></th>
+     <th><a href="solar.html">solar panels</a></th>
+     <th><a href="focp3.html">accessories</a></th>
+     <th><a href="focp5.html">account</a></th>
+   </tr>
+  </table>
+<table>
+<tr>
+<th><img src="garageopener.avif"</th>
+<th>Garage opener</th>

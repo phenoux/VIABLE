@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<title>solar panel</title>
+<style>
+span{
+  padding:5px;
+  border:2px solid black;
+  background-image:url("");
+}
+span.a{
+  display:block;
+  width:1200px;
+  height:900px;
+}
+</style>
+</head>
+<body>
+<h1 align="center">About Solar Rooftop</h1>
+<h2>How does solar work?</h2>
+<p>See how solar energy interacts with the grid and powers your home during the day.</p>
+<h3>Scenario-1:Morning</h3>
+<img src="solar panel1.gif" Width="100%">
+<h4><B>Energy Flow<p><B>
+<ul>
+<li>Solar plant will start generating power</li>
+<li>Your energy demand will be first met by solar power</li>
+<li>In case of additional energy requirement,power will be drawn from the grid</li>
+<li>Savings in Electricity Bill</li>
+<li>Majority of the energy requirement will be catered from solar energy thus reducing your DISCOM electricity bill</li>
+</ul>
+<h4>Scenario-2:Afternoon</h4>
+<img src="solar panel2.gif">
+<h5><B>Energy Flow</h5><B>
+<ul>
+<li>During daytime, solar energy generation would be almost suffocient to meet your electricity demand</li>
+<li>Surplus energy generated from solar will be fed back to grid</li>
+<li>Savings in Electricity Bill</li>
+<li>Sueplus energy fed back to the grid would be recorded in the net meter and credited to tour account</li>
+<h5>Scenerio 3:NIGHT</h5>
+<img src="solar panel3.gif">
+<ul>
+<li>After sunset,your electricity requirement will be catered mainly by the grid supply</li>
+<li><B>Savings in Electricity Bill</li><B>
+<li>After sunset,your electricity requirement will be catered mainly by the grid supply</li>
+<h6>Why Solar Energy?</h6>
+<img src="solar panel.jpg">
